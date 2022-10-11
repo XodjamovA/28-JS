@@ -52,8 +52,7 @@ let undefined_1 = 0
 
 for (let item of arr_students) {
     age_1 = age_1 + item.age / arr_students.length
-    item.age.Math.max()
-
+    // item.age.Math.max()
 
 
 
@@ -73,3 +72,5 @@ for (let item of arr_students) {
 
 console.log(male, female, undefined_1);
 console.log(age_1);
+console.log(arr_students[4]);
+console.log(arr_students[1]);
