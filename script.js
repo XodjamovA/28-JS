@@ -60,7 +60,6 @@ for (let item of arr_students) {
 
 
 
-
     if (item.gender == `male`) {
         male++
     } else if (item.gender == `female`) {
